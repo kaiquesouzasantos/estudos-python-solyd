@@ -1,2 +1,2 @@
 # PYTHON-SOLYD
-Repositório contendo o conteudo desenvolvido no curso Básico de Python realizado na Solyd Offensive Security
+Repositório contendo o desenvolvimento no curso Básico de Python realizado na Solyd Offensive Security
