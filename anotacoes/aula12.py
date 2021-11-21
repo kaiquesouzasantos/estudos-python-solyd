@@ -14,33 +14,3 @@ print(request.text)
 
 dic = json.loads(request.text) # loads => JSON para dict
 print(dic)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
