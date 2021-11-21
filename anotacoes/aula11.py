@@ -25,27 +25,3 @@ try:
     print(request2.status_code)
 except Exception as E:
     print('deu pau',E)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
