@@ -2,7 +2,7 @@
 
 ### SOBRE
 
-- Repositório contendo o desenvolvimento no curso de Python realizado na Faculdade de Informática e Administração Paulista.
+- Repositório contendo o desenvolvimento no curso Básico de Python realizado na Solyd Offensive Security.
 - Possui pequenos projetos submetidos como proposta de solução, com o intuito de atender aos requisitos solicitados.
 
 #
