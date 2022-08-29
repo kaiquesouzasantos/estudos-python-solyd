@@ -1,5 +1,10 @@
 <h1 align=center>PYTHON-FIAP</h1>
 
+<p align="center">
+  <img src="solyd.png" width="500">
+</p>
+
+#
 ### SOBRE
 
 - Repositório contendo o desenvolvimento no curso Básico de Python realizado na Solyd Offensive Security.
