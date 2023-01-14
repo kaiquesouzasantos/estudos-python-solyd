@@ -35,5 +35,5 @@
 ### CONTRIBUIÇÃO
 
 ```
-$ git clone https://github.com/kaiquesouzasantos/python-solyd.git 
+$ git clone https://github.com/kaiquesouzasantos/estudos-python-solyd.git 
 ```
