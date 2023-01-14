@@ -1,4 +1,4 @@
-<h1 align=center>PYTHON-SOLYD</h1>
+<h1 align=center>ESTUDOS-PYTHON-SOLYD</h1>
 
 <p align="center">
   <img src="solyd.png" width="500">
