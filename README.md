@@ -5,13 +5,13 @@
 </p>
 
 #
-### SOBRE
+### 📚 SOBRE
 
 - Repositório contendo o desenvolvimento no curso Básico de Python realizado na Solyd Offensive Security.
 - Possui pequenos projetos submetidos como proposta de solução, com o intuito de atender aos requisitos solicitados.
 
 #
-### CONTEUDO ABORDADO
+### ⭐ CONTEUDO ABORDADO
 
 - Tipos de Dados Primitivos;
 - Operadores: Aritmeticos, Relacionais, Atribuição e Lógicos;
@@ -28,7 +28,7 @@
 - Requisições Web e API.
 
 #
-### TECNOLOGIA
+### 💻 TECNOLOGIA
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 #
